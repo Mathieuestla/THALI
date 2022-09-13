@@ -68,3 +68,13 @@ C:\Users\FOREST\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompi
 C:\Users\FOREST\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete
 C:\Users\FOREST\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.dll
 C:\Users\FOREST\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+Z:\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.AssemblyReference.cache
+Z:\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CoreCompileInputs.cache
+Z:\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.dll
+Z:\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.pdb
+Z:\THALI\ClassThaliTests\bin\Debug\ClassThaliTests.dll
+Z:\THALI\ClassThaliTests\bin\Debug\ClassThaliTests.pdb
+Z:\THALI\ClassThaliTests\bin\Debug\ClassThali.dll
+Z:\THALI\ClassThaliTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\THALI\ClassThaliTests\bin\Debug\ClassThali.pdb
+Z:\THALI\ClassThaliTests\obj\Debug\ClassThaliTests.csproj.CopyComplete

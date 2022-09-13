@@ -44,3 +44,9 @@ C:\Users\FOREST\THALI\ClassThali\obj\Debug\ClassThali.csproj.AssemblyReference.c
 C:\Users\FOREST\THALI\ClassThali\obj\Debug\ClassThali.csproj.CoreCompileInputs.cache
 C:\Users\FOREST\THALI\ClassThali\obj\Debug\ClassThali.dll
 C:\Users\FOREST\THALI\ClassThali\obj\Debug\ClassThali.pdb
+Z:\THALI\ClassThali\obj\Debug\ClassThali.csproj.AssemblyReference.cache
+Z:\THALI\ClassThali\obj\Debug\ClassThali.csproj.CoreCompileInputs.cache
+Z:\THALI\ClassThali\obj\Debug\ClassThali.dll
+Z:\THALI\ClassThali\obj\Debug\ClassThali.pdb
+Z:\THALI\ClassThali\bin\Debug\ClassThali.dll
+Z:\THALI\ClassThali\bin\Debug\ClassThali.pdb
