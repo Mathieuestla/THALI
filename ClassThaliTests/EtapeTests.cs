@@ -30,5 +30,7 @@ namespace ClassThali.Tests
             Etape ET = new Etape(1, "Promenade dans l'ile", 60);
             Assert.AreEqual("Promenade dans l'ile", ET.getDescEtape(), "La description de l'étape est promenade dans l'ile");
         }
+
+
     }
 }

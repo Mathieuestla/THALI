@@ -28,7 +28,7 @@ namespace ClassThali.Tests
         [TestMethod()]
         public void SetNombreInscritsTest()
         {
-            Assert.Fail();
+            
         }
 
         [TestMethod()]
@@ -47,7 +47,16 @@ namespace ClassThali.Tests
         [TestMethod()]
         public void HeureRetourPrevueTest()
         {
-            Assert.Fail();
+            MiniExcursion ME = new MiniExcursion(1, "balade", 20);
+            
+            Etape ET = new Etape(10, "balade", 10);
+            Etape ET2 = new Etape(10, "balade", 60);
+            Etape ET3 = new Etape(  10, "balade", 30);
+            List<Etape> etapesME = new List<Etape> { ET, ET2, ET3 };
+            ME.SetLesEtapes(etapesME);
+            MiniExcursionPlanifiee MEP = new MiniExcursionPlanifiee("J124-2", ME, DateTime.Parse("10:30"),5);
+            Assert.AreEqual(DateTime.Parse("12.10"), MEP.HeureRetourPrevue(), "me bon");
+
         }
     }
 }
