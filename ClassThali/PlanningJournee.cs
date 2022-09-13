@@ -20,6 +20,11 @@ namespace ClassThali
             this.date = uneDate;
             this.lesMiniExcursionsPlanifiees = new List<MiniExcursionPlanifiee>();
         }
-              
+        public void PlanifierME(string unCode, MiniExcursion uneME, DateTime unHoraire)
+        {
+            MiniExcursionPlanifiee MEP = new MiniExcursionPlanifiee(unCode, uneME, unHoraire);
+        }
+
+
     }
 }
